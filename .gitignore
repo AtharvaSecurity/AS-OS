@@ -1,0 +1,27 @@
+# Build files
+build/
+*.o
+*.bin
+*.iso
+*.img
+
+# QEMU files
+*.qcow2
+*.vmdk
+*.vdi
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+*.bak
